@@ -1,0 +1,1 @@
+# 2nd-Degree_Segregation-Waste-Management-System_using-_CNN-Deep-Learning
